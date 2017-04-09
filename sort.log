@@ -1,0 +1,14 @@
+Array Size = 1000
+STL Sort Time : 0.000156 s
+Insertion Sort Time : 0.009702 s
+
+Array Size = 10000
+STL Sort Time : 0.002567 s
+Insertion Sort Time : 0.962372 s
+
+Array Size = 100000
+STL Sort Time : 0.032025 s
+Insertion Sort Time : 101.479 s
+
+Array Size = 1000000
+STL Sort Time : 0.349275 s
